@@ -6,3 +6,5 @@ https://discord.com/api/oauth2/authorize?client_id=827027991242080266&permission
 
 If, somehow, the bot doesn't work like it's supposed to then use this link:
 https://discord.com/api/oauth2/authorize?client_id=827027991242080266&permissions=8&scope=bot
+
+Type >help to see all the commands of the bot. It can do much more than just a game ;) 
